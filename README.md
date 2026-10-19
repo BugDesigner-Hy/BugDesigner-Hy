@@ -16,7 +16,7 @@
 <tr>
 <td width="64%" valign="top">
 我是<strong>海子</strong>，一个住在银川的开发者。<br><br>
-喜欢把脑子里突然冒出来的想法，做成能点、能玩、能留住人的小东西。白天写页面，晚上折腾动效；最近在减脂，也在学着把东西做得更简单一点。
+喜欢把脑子里突然冒出来的想法，做成能点、能玩、能留住人的小东西。另外最近在减脂。
 </td>
 <td width="36%" align="center" valign="top">
 <img src="./assets/avatar-round.png" width="190" alt="海子"><br>
