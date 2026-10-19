@@ -41,19 +41,21 @@ vue3  vite  javascript  webgl  c#  git
 
 ### 02 / 现在 <sub>NOW</sub>
 
+<p><strong>最近把时间花在三件事上：</strong></p>
+
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
-<strong>🔭 在做</strong><br>
-<sub>把手上的东西做完整。</sub>
+<strong>🛠️ 在做</strong><br>
+<sub>做好玩的东西。</sub>
 </td>
 <td width="33%" valign="top">
-<strong>🌱 在学</strong><br>
-<sub>WebGL、生成艺术、动效。</sub>
+<strong>🏋️ 在练</strong><br>
+<sub>健身，顺便减脂。</sub>
 </td>
 <td width="33%" valign="top">
-<strong>🧃 最近</strong><br>
-<sub>减脂；收集传统色。</sub>
+<strong>🎮 在玩</strong><br>
+<sub>打 LOLM。</sub>
 </td>
 </tr>
 </table>
