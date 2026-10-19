@@ -112,14 +112,11 @@ vue3  vite  javascript  webgl  c#  git
 
 ### 05 / GitHub <sub>DATA</sub>
 
-<table width="100%">
-<tr>
-<td width="25%"><div align="center"><h3>07</h3><sub>公开仓库</sub></div></td>
-<td width="25%"><div align="center"><h3>05</h3><sub>常用语言</sub></div></td>
-<td width="25%"><div align="center"><h3>2019</h3><sub>加入</sub></div></td>
-<td width="25%"><div align="center"><h3>∞</h3><sub>好奇心</sub></div></td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.png">
+  <img src="./assets/stats-dark.png" width="100%" alt="07 公开仓库、05 常用语言、2019 加入、∞ 好奇心">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.png">
