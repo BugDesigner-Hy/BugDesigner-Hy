@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![LOCATION](https://img.shields.io/badge/LOCATION-YINCHUAN-0F766E?style=flat-square) ![FOCUS](https://img.shields.io/badge/FOCUS-FRONT--END_%26_SMALL_TOOLS-1E293B?style=flat-square) ![STATUS](https://img.shields.io/badge/STATUS-CUTTING_FAT-F59E0B?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-BugDesigner--Hy-181717?style=flat-square&logo=github)](https://github.com/BugDesigner-Hy)
+![LOCATION](https://img.shields.io/badge/LOCATION-YINCHUAN-0F766E?style=flat-square) ![FOCUS](https://img.shields.io/badge/FOCUS-WEB_%26_TOOLS-1E293B?style=flat-square) ![STATUS](https://img.shields.io/badge/STATUS-CUTTING_FAT-F59E0B?style=flat-square) [![GitHub](https://img.shields.io/badge/GitHub-BugDesigner--Hy-181717?style=flat-square&logo=github)](https://github.com/BugDesigner-Hy)
 
 </div>
 
@@ -45,15 +45,15 @@ vue3  vite  javascript  webgl  c#  git
 <tr>
 <td width="33%" valign="top">
 <strong>🔭 在做</strong><br>
-<sub>把手上的东西做完整；少留半成品。</sub>
+<sub>把手上的东西做完整。</sub>
 </td>
 <td width="33%" valign="top">
 <strong>🌱 在学</strong><br>
-<sub>WebGL、生成艺术，以及更细的动效。</sub>
+<sub>WebGL、生成艺术、动效。</sub>
 </td>
 <td width="33%" valign="top">
 <strong>🧃 最近</strong><br>
-<sub>减脂；收集中国传统色；研究 GitHub Actions。</sub>
+<sub>减脂；收集传统色。</sub>
 </td>
 </tr>
 </table>
@@ -97,18 +97,16 @@ vue3  vite  javascript  webgl  c#  git
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
-<strong>先能用，再好看。</strong><br>
-<sub>功能是骨架，体验是皮肤。</sub>
-</td>
-<td width="33%" valign="top">
-<strong>少一点解释，多一点手感。</strong><br>
-<sub>好的交互不需要说明书。</sub>
-</td>
-<td width="33%" valign="top">
-<strong>做小东西，也要有完整的体验。</strong><br>
-<sub>从第一眼到最后一秒，都算作品的一部分。</sub>
-</td>
+<td width="42" valign="top"><strong>01</strong></td>
+<td valign="top"><strong>先能用，再好看。</strong><br><sub>功能是骨架，体验是皮肤。</sub></td>
+</tr>
+<tr>
+<td valign="top"><strong>02</strong></td>
+<td valign="top"><strong>少一点解释，多一点手感。</strong><br><sub>好的交互不需要说明书。</sub></td>
+</tr>
+<tr>
+<td valign="top"><strong>03</strong></td>
+<td valign="top"><strong>做小东西，也要有完整的体验。</strong><br><sub>从第一眼到最后一秒，都算作品的一部分。</sub></td>
 </tr>
 </table>
 
@@ -118,7 +116,7 @@ vue3  vite  javascript  webgl  c#  git
 <tr>
 <td width="25%"><div align="center"><h3>07</h3><sub>公开仓库</sub></div></td>
 <td width="25%"><div align="center"><h3>05</h3><sub>常用语言</sub></div></td>
-<td width="25%"><div align="center"><h3>2019</h3><sub>加入 GitHub</sub></div></td>
+<td width="25%"><div align="center"><h3>2019</h3><sub>加入</sub></div></td>
 <td width="25%"><div align="center"><h3>∞</h3><sub>好奇心</sub></div></td>
 </tr>
 </table>
