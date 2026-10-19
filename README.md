@@ -95,20 +95,14 @@ vue3  vite  javascript  webgl  c#  git
 
 ### 04 / 小原则 <sub>PRINCIPLES</sub>
 
-<table width="100%">
-<tr>
-<td width="42" valign="top"><strong>01</strong></td>
-<td valign="top"><strong>先能用，再好看。</strong><br><sub>功能是骨架，体验是皮肤。</sub></td>
-</tr>
-<tr>
-<td valign="top"><strong>02</strong></td>
-<td valign="top"><strong>少一点解释，多一点手感。</strong><br><sub>好的交互不需要说明书。</sub></td>
-</tr>
-<tr>
-<td valign="top"><strong>03</strong></td>
-<td valign="top"><strong>做小东西，也要有完整的体验。</strong><br><sub>从第一眼到最后一秒，都算作品的一部分。</sub></td>
-</tr>
-</table>
+<p><strong>01　先能用，再好看。</strong><br>
+<sub>功能是骨架，体验是皮肤。</sub></p>
+
+<p><strong>02　少一点解释，多一点手感。</strong><br>
+<sub>好的交互不需要说明书。</sub></p>
+
+<p><strong>03　做小东西，也要有完整的体验。</strong><br>
+<sub>从第一眼到最后一秒，都算作品的一部分。</sub></p>
 
 ### 05 / GitHub <sub>DATA</sub>
 
