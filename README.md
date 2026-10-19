@@ -47,15 +47,18 @@ vue3  vite  javascript  webgl  c#  git
 <tr>
 <td width="33%" valign="top">
 <strong>🛠️ 在做</strong><br>
-<sub>做好玩的东西。</sub>
+<sub>做好玩的东西。</sub><br>
+<img src="./assets/spacer.png" width="188" height="1" alt="">
 </td>
 <td width="33%" valign="top">
 <strong>🏋️ 在练</strong><br>
-<sub>健身，顺便减脂。</sub>
+<sub>健身，顺便减脂。</sub><br>
+<img src="./assets/spacer.png" width="188" height="1" alt="">
 </td>
 <td width="33%" valign="top">
 <strong>🎮 在玩</strong><br>
-<sub>打 LOLM。</sub>
+<sub>打 LOLM。</sub><br>
+<img src="./assets/spacer.png" width="188" height="1" alt="">
 </td>
 </tr>
 </table>
